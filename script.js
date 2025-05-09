@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         const loveMsg = document.createElement("div");
         loveMsg.classList.add("final-message");
-        loveMsg.innerHTML = "You Made My Life Beautiful ❤️<br>Thank You So Much..... 💕 Happy Birthday  to you  <br>💙 Aihsu Ma 🧡";
+        loveMsg.innerHTML = "You Made My Life Beautiful ❤️<br>Thank You So Much..... 💕 Happy Birthday  to you  <br>💙Aishu🧡";
         document.body.appendChild(loveMsg);
     }
 
